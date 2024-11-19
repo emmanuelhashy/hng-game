@@ -9,7 +9,7 @@
     "concurrently": "^5.2.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "firebase": "^7.8.2",
+    "firebase": "^10.9.0",
     "pusher": "^3.0.1",
     "pusher-js": "^6.0.3",
     "react": "^16.12.0",
